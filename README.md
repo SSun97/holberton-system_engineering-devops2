@@ -1,2 +1,2 @@
 # holberton-system_engineering-devops
-The Shell
+This Project is about the Shell
