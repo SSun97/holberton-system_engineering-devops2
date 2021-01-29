@@ -1,4 +1,5 @@
 #!/bin/bash
-/chown -R betty:holberton ./
+/chown -R betty:holberton ./*
+
 
 
