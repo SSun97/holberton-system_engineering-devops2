@@ -1,5 +1,6 @@
 #!/bin/bash
-chown -R betty:holberton *
+chown betty:holberton *
+
 
 
 
